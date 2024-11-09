@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from "react";
 import AdminNavBar from "./AdminNavBar";
 import QuestionForm from "./QuestionForm";

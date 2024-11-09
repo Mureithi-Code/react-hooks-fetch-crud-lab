@@ -17,7 +17,7 @@ function QuestionForm(props) {
     });
   }
 
-  function handleSubmit(event) {
+  function handleSubmit() {
     const n = {
       prompt: formData.prompt,
       answers: [
